@@ -61,6 +61,20 @@ Prompts never leave your browser. History lives in `localStorage` under `prompt-
 
 ![Demo GIF](screenshots/demo.gif)
 
+## ❓ FAQ
+
+**Is my prompt sent to any server?**
+No. Scoring and rewriting happen 100% in your browser. Nothing is uploaded anywhere.
+
+**How is the score calculated?**
+Eight local heuristics check for things like a missing role, vague wording, no output format, and missing constraints. See "How the scoring works" above for details.
+
+**Does it actually give better answers from AI models?**
+It turns vague prompts into specific, structured ones — and specific prompts consistently get better responses from models like ChatGPT and Claude.
+
+**Where is my history stored?**
+In your browser's localStorage, on your device only. Clear your browser data and it's gone.
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE).
