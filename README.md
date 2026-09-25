@@ -17,8 +17,8 @@ Turn vague prompts into precise ones — a local-first workbench that scores you
 
 
 ### ❤️ Bada Dil, Chhoti Madad
-Ye tool free hai aur hamesha free rahega. Agar isne tumhara time ya paisa bachaya ho, to ek Star ⭐ de do aur chahe to sponsor kar do.
-[⭐ Star this repo](https://github.com/devilking7x/prompt-optimizer) [☕ Sponsor](https://github.com/sponsors/devilking7x)
+Ye tool free hai aur hamesha free rahega. Agar isne tumhara time ya paisa bachaya ho, to ek Star ⭐ de do.
+[⭐ Star this repo](https://github.com/devilking7x/prompt-optimizer)
 
 ## 🧮 How the scoring works
 
