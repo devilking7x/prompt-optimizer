@@ -15,6 +15,11 @@ Turn vague prompts into precise ones — a local-first workbench that scores you
 - **Copy & download** — copy the optimized prompt or download it as Markdown.
 - **100% private** — everything runs in your browser tab. No uploads, no API keys, no tracking.
 
+
+### ❤️ Bada Dil, Chhoti Madad
+Ye tool free hai aur hamesha free rahega. Agar isne tumhara time ya paisa bachaya ho, to ek Star ⭐ de do aur chahe to sponsor kar do.
+[⭐ Star this repo](https://github.com/devilking7x/prompt-optimizer) [☕ Sponsor](https://github.com/sponsors/devilking7x)
+
 ## 🧮 How the scoring works
 
 ```
