@@ -54,6 +54,8 @@ Prompts never leave your browser. History lives in `localStorage` under `prompt-
 
 ![Demo](screenshots/demo.png)
 
+![Demo GIF](screenshots/demo.gif)
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE).
