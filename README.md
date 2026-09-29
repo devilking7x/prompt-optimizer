@@ -1,5 +1,7 @@
 # Prompt Optimizer
 
+[![Live demo](https://img.shields.io/badge/demo-live-8b5cf6.svg)](https://devilking7x.github.io/prompt-optimizer/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Turn vague prompts into precise ones — a local-first workbench that scores your prompt, explains every issue, and rewrites it with proven techniques.
 
 **Live demo:** https://devilking7x.github.io/prompt-optimizer/
